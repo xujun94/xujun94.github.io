@@ -1,0 +1,131 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+
+
+    
+    
+    
+    
+  <url>
+    <loc>https://xujun94.github.io/posts/undefined/</loc>
+    <lastmod>2016-12-09T04:15:08.235Z</lastmod>
+    <data>
+        <display>
+        <title>Hello World</title>
+        <pubTime>2016-12-09T04:15:08.225Z</pubTime>
+        
+         
+           
+        </display>
+    </data>
+    </url>
+
+    
+    
+  <url>
+    <loc>https://xujun94.github.io/posts/57f6cb3f/</loc>
+    <lastmod>2016-12-08T12:03:24.877Z</lastmod>
+    <data>
+        <display>
+        <title>自定义Behavior —— 仿知乎，FloatActionButton隐藏与展示</title>
+        <pubTime>2016-12-08T05:03:58.000Z</pubTime>
+        
+         
+           
+        </display>
+    </data>
+    </url>
+
+    
+  <url>
+    <loc>https://xujun94.github.io/posts/aa8975a9/</loc>
+    <lastmod>2016-12-08T12:03:24.874Z</lastmod>
+    <data>
+        <display>
+        <title>常用的自定义View例子一(FlowLayout)</title>
+        <pubTime>2016-12-08T05:48:06.000Z</pubTime>
+        
+        <tag>FlowLayout</tag>
+         
+        <tag>自定义控件</tag>
+         
+        <tag>流布式布局</tag>
+         
+         
+           
+        </display>
+    </data>
+    </url>
+
+    
+  <url>
+    <loc>https://xujun94.github.io/posts/56a07e02/</loc>
+    <lastmod>2016-12-08T12:03:24.870Z</lastmod>
+    <data>
+        <display>
+        <title>使用CoordinatorLayout打造各种炫酷的效果</title>
+        <pubTime>2016-12-08T04:24:55.000Z</pubTime>
+        
+         
+           
+        </display>
+    </data>
+    </url>
+
+    
+  <url>
+    <loc>https://xujun94.github.io/posts/c1c564f1/</loc>
+    <lastmod>2016-12-08T12:03:24.866Z</lastmod>
+    <data>
+        <display>
+        <title>360面试心得（Android)</title>
+        <pubTime>2016-12-08T05:05:55.000Z</pubTime>
+        
+         
+           
+        </display>
+    </data>
+    </url>
+
+    
+  <url>
+    <loc>https://xujun94.github.io/posts/ce27b25b/</loc>
+    <lastmod>2016-12-08T12:03:24.863Z</lastmod>
+    <data>
+        <display>
+        <title> Retrofit使用教程（一）- Retrofit入门详解</title>
+        <pubTime>2016-12-08T06:04:56.000Z</pubTime>
+        
+        <tag>Retrofit</tag>
+         
+        <tag>网络</tag>
+         
+         
+           
+        </display>
+    </data>
+    </url>
+
+    
+  <url>
+    <loc>https://xujun94.github.io/posts/676e5780/</loc>
+    <lastmod>2016-12-08T12:03:24.857Z</lastmod>
+    <data>
+        <display>
+        <title>Android 启动系统相机，相册，裁剪图片及6.0权限管理</title>
+        <pubTime>2016-12-08T06:10:13.000Z</pubTime>
+        
+        <tag>启动系统相机</tag>
+         
+        <tag>启动相册</tag>
+         
+        <tag>6.0权限管理</tag>
+         
+         
+           
+        </display>
+    </data>
+    </url>
+
+    
+</urlset>
